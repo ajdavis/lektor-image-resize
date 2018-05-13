@@ -1,3 +1,8 @@
+**This project is archived and no longer maintained. 
+For a maintained and better version of this project see https://github.com/skorokithakis/lektor-thumbnail-generator**
+
+--------
+
 # Lektor Image Auto-Resize Plugin
 
 This plugin automatically resizes image attachments for pages when you build your site.
